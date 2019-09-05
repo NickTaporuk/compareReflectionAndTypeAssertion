@@ -20,5 +20,5 @@
 
 ### Conclusion
 
-method BenchmarkConvertInterfaceToMapStrings work faster then reflection
+    method BenchmarkConvertInterfaceToMapStrings work faster then reflection
 
